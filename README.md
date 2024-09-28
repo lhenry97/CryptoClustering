@@ -1,1 +1,3 @@
 # CryptoClustering
+This challenge was completed as a part of the Data Analaytics bootcamp and looked at predicting if cryprocurrencies are affect by 24 hour or 7 day changes. Jupyter Notebook was utilised to transform and analyse the data. The code uses unsupervised learning to cluster the data. Clusters were created using the original data and scaled principal component analysis (PCA) data. The best number of clusters suited to the data set was identified using the elbow method and was found to be 4 in both the original data and the scaled PCA data. 
+The worked examples provided by the course were used to create this code. 
